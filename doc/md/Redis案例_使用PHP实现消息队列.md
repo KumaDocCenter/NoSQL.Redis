@@ -7,7 +7,7 @@ categories:
 tags:
 typora-root-url: Redis案例_使用PHP实现消息队列
 typora-copy-images-to: Redis案例_使用PHP实现消息队列
-top: 
+top: 1
 ---
 
 
